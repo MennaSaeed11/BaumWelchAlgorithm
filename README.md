@@ -1,4 +1,4 @@
-# Hidden Markov Model (HMM) Project
+# Hidden Markov Model (HMM)
 
 ## Project Overview
 This project uses a Hidden Markov Model (HMM) to track the movements of a criminal between two cities: Los Angeles (LA) and New York (NY). The goal is to predict the most likely sequence of cities based on partial observations and evidence.
